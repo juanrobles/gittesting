@@ -1,2 +1,2 @@
-# file2.rb
+# file2.rb Hot fix 2
 
